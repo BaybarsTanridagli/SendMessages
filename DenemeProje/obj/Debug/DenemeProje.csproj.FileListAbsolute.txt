@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\DenemeProje\bin\Debug\DenemeProje.exe.config
+C:\Users\Lenovo\Desktop\DenemeProje\bin\Debug\DenemeProje.exe
+C:\Users\Lenovo\Desktop\DenemeProje\bin\Debug\DenemeProje.pdb
+C:\Users\Lenovo\Desktop\DenemeProje\obj\Debug\DenemeProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DenemeProje\obj\Debug\DenemeProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\DenemeProje\obj\Debug\DenemeProje.Form1.resources
+C:\Users\Lenovo\Desktop\DenemeProje\obj\Debug\DenemeProje.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DenemeProje\obj\Debug\DenemeProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\DenemeProje\obj\Debug\DenemeProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DenemeProje\obj\Debug\DenemeProje.exe
+C:\Users\Lenovo\Desktop\DenemeProje\obj\Debug\DenemeProje.pdb
